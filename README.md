@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in PHP related to loose comparison. The script `bug.php` showcases the unexpected behavior of comparing a string "0" to an integer 0. The `bugSolution.php` provides a corrected version using strict comparison.
